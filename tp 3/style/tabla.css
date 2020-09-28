@@ -1,0 +1,22 @@
+.decss {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.decss td, .decss th {
+  border: 1px solid #00C77B;
+  padding: 8px;
+}
+
+.decss tr:nth-child(even){background-color: #f2f2f2;}
+
+.decss tr:hover {background-color: #00C77B;}
+
+.decss th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #5A5A5A;
+  color: white;
+}

@@ -1,0 +1,18 @@
+.blue-input:focus{
+background-color:#E2E9FF;
+
+}
+.span{
+font-size:17px;
+}
+.button{
+background-color:#577EF6;font-size:15px; border:none; padding:6px 25px;border-radius:2px;
+cursor: pointer;color:white;text-shadow:1px 1px 2px #000000; 
+}
+.button:hover{
+background-color: #1C43B9;
+}
+
+input {
+width:100%; padding:3px 0; margin:5px 0;}
+
